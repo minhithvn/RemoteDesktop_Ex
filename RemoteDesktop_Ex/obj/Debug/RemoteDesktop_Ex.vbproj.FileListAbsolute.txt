@@ -1,0 +1,17 @@
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\bin\Debug\RemoteDesktop_Ex.exe.config
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\obj\Debug\Interop.MSTSCLib.dll
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\obj\Debug\Interop.TERMMGRLib.dll
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\obj\Debug\AxInterop.MSTSCLib.dll
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\obj\Debug\RemoteDesktop_Ex.vbproj.ResolveComReference.cache
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\bin\Debug\RemoteDesktop_Ex.exe
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\bin\Debug\RemoteDesktop_Ex.pdb
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\bin\Debug\RemoteDesktop_Ex.xml
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\bin\Debug\Interop.MSTSCLib.dll
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\bin\Debug\AxInterop.MSTSCLib.dll
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\obj\Debug\RemoteDesktop_Ex.Form1.resources
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\obj\Debug\RemoteDesktop_Ex.Resources.resources
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\obj\Debug\RemoteDesktop_Ex.vbproj.GenerateResource.Cache
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\obj\Debug\RemoteDesktop_Ex.exe
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\obj\Debug\RemoteDesktop_Ex.xml
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\obj\Debug\RemoteDesktop_Ex.pdb
+D:\VB2005\test\RemoteDesktop_Ex\RemoteDesktop_Ex\obj\Debug\RemoteDesktop_Ex.vbprojResolveAssemblyReference.cache
